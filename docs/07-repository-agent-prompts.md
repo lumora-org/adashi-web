@@ -1,6 +1,6 @@
-# Coding Agent Prompts — Web and API Repositories
+# Coding Agent Prompts — Web Repository
 
-Use these prompts only after placing the project documentation in the corresponding repository's `docs/` folder. The agent must read the docs before implementing features.
+
 
 ## Frontend prompt (`web` repository)
 
